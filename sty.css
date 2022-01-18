@@ -1,0 +1,176 @@
+body{
+    background: #e5e5e5;
+    position: relative;
+}
+.main-cont{
+    display: flex;
+    position: absolute;
+    max-width: 320px;
+    background: #ffffff;
+    max-height: 5000px;
+    flex-direction: column;
+    justify-content: center;
+    left: 550px;
+}
+#logo{
+    position: static;
+    display: ruby;
+}
+.menu-icon{
+    margin: 20px 15px 0px 0px;
+    float: right;
+}
+#head1{
+    padding: 0px 0px 0px 15px;
+}
+#head1 h1{
+    font-size: 50px;
+    padding: 0px 50px 0px 0px;
+}
+.head2{
+    padding: 0px 0px 0px 20px;
+    font-size: 30px;
+}
+#details{
+    padding: 0px 15px 0px 20px;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+.pname{
+    background: #0c264d;
+    color: #ffffff;
+    justify-content: center;
+    align-items: center;
+}
+.pname p{
+    align-items: center;
+}
+.projN{
+    font-family: sans-serif;
+    padding: 0px 0px 0px 15px;
+}
+.CV{
+    padding: 0px 0px 0px 15px;
+}
+.CV a{
+    text-decoration: none;
+}
+#language{
+    padding: 15px 15px 0px 15px;
+}
+.language{
+    background: rgb(10, 48, 83);
+    width: px;
+    height: auto;
+    color: #ffffff;
+    padding: 20px;
+    font-family: Verdana;
+}
+#framework{
+    padding: 15px 15px 0px 15px;
+}
+.framework{
+    background: rgb(253, 110, 110);
+    width: px;
+    height: auto;
+    color: #ffffff;
+    padding: 20px;
+    font-family: Verdana;
+}
+#skill{
+    padding: 15px;
+}
+.skill{
+    background: rgb(255, 164, 44);
+    width: px;
+    height: auto;
+    color: #ffffff;
+    padding: 20px;
+    font-family: Verdana;
+}
+.about{
+    background: #f8f8f8;
+    
+}
+.capt{
+    padding: 10px 25px 0px 25px;
+    display: flex;
+}
+.capt input{
+    flex: 3;
+    height: 30px;
+}
+.marea{
+    padding: 10px 25px 0px 25px;
+    display: flex;
+}
+.marea textarea{
+    flex: 3;
+}
+.collaborate{
+    padding: 20px 25px 30px 25px;
+    display: flex;
+    align-items: center;
+}
+.collaborate a{
+    flex: 2;
+    height: 30px;
+    background-color: #0c264d;
+    color: #ffffff;
+    padding: 6px 0px 0px 0px;
+    border: none;
+    text-decoration: none;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#footer{
+    background: #0c264d;
+    padding: 25px 0px 0px 0px;
+}
+.resume a{
+    text-decoration: none;
+    color: rgb(159, 230, 230);
+    padding: 25px 25px 25px 25px;
+}
+.connect{
+    padding: 25px 25px 25px 25px;
+}
+.connect img{
+    width: 30px;
+    background-color: #ffffff;
+    margin: 10px;
+}
+.image{
+    background-size: cover;
+    max-width: 320px;
+}
+.image img{
+    background-size: cover;
+    width: 320px;
+}
+.buttons{
+    padding: 5px 0px 20px 15px;
+}
+.buttons a{
+    background: #9feaf0;
+    border: 1px solid grey;
+    text-decoration: none;
+    padding: 2px 2px 2px 2px;
+    font-family: sans-serif;
+    font-style: normal;
+    border: none;
+    margin: 1px;
+}
+.see{
+    padding: 5px 0px 20px 15px;
+}
+.see a{
+    border: 1px solid #ffffff;
+    color: #ffffff;
+    background: #0c264d;
+    height: 30px;
+    text-decoration: none;
+    padding: 5px 5px 5px 5px;
+    font-family: cursive;
+}
