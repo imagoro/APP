@@ -14,10 +14,10 @@ body{
 }
 #logo{
     position: static;
-    display: ruby;
+    margin-left: -5px;
 }
 .menu-icon{
-    margin: 20px 15px 0px 0px;
+    margin: -80px 15px 0px 0px;
     float: right;
 }
 #head1{
@@ -26,6 +26,14 @@ body{
 #head1 h1{
     font-size: 50px;
     padding: 0px 50px 0px 0px;
+}
+.img1{
+    width: 320px;
+}
+.img2 img{
+    background-size: cover;
+    width: 320px;
+    height: 130px;
 }
 .head2{
     padding: 0px 0px 0px 20px;
