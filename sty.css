@@ -14,10 +14,16 @@ body{
 }
 #logo{
     position: static;
-    margin-left: -5px;
+    margin: 0px;
+}
+.shape1 img{
+    width: 80px;
+}
+.s2{
+    margin-left: -45px;
 }
 .menu-icon{
-    margin: -80px 15px 0px 0px;
+    margin: -60px 15px 0px 0px;
     float: right;
 }
 #head1{
@@ -75,6 +81,9 @@ body{
     padding: 20px;
     font-family: Verdana;
 }
+.language img{
+    background-color: darkgrey;
+}
 #framework{
     padding: 15px 15px 0px 15px;
 }
@@ -97,9 +106,15 @@ body{
     padding: 20px;
     font-family: Verdana;
 }
+.about img{
+    width: 80px;
+}
+.s3{
+    margin-left: -45px;
+}
 .about{
     background: #f8f8f8;
-    
+    position: static;
 }
 .capt{
     padding: 10px 25px 0px 25px;
@@ -142,12 +157,14 @@ body{
     padding: 25px 25px 25px 25px;
 }
 .connect{
-    padding: 25px 25px 25px 25px;
+    padding: 15px 25px 25px 25px;
 }
 .connect img{
-    width: 30px;
-    background-color: #ffffff;
-    margin: 10px;
+    width: 25px;
+    background: #ffffff;
+    margin: 1px;
+    padding: 3px 3px 3px 3px;
+    border-radius: 3px;
 }
 .image{
     background-size: cover;
@@ -181,4 +198,8 @@ body{
     text-decoration: none;
     padding: 5px 5px 5px 5px;
     font-family: cursive;
+}
+.see a img{
+    margin-bottom: -3px;
+    width: 20px;
 }
