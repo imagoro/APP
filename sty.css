@@ -1,7 +1,9 @@
 body {
+  
   background: #e5e5e5;
   position: relative;
 }
+
 .main-cont {
   display: flex;
   position: absolute;
@@ -12,22 +14,28 @@ body {
   justify-content: center;
   left: 550px;
 }
+
 #logo {
   position: static;
 }
+
 .shape1 img {
   width: 80px;
 }
+
 .s2 {
   margin-left: -45px;
 }
+
 .menu-icon {
   margin: -60px 15px 0 0;
   float: right;
 }
+
 #head1 {
   padding: 0 0 0 15px;
 }
+
 #head1 h1 {
   font-size: 50px;
   padding: 0 50px 0 0;
@@ -36,43 +44,53 @@ body {
 .img1 {
   width: 320px;
 }
+
 .img2 img {
   background-size: cover;
   width: 320px;
   height: 130px;
 }
+
 .head2 {
   padding: 0 0 0 20px;
   font-size: 30px;
 }
+
 #details {
   padding: 0 15px 0 20px;
   justify-content: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 15px;
 }
+
 .pname {
   background: #0c264d;
   color: #fff;
   justify-content: center;
   align-items: center;
 }
+
 .pname p {
   align-items: center;
 }
+
 .projN {
   font-family: sans-serif;
   padding: 0 0 0 15px;
 }
+
 .CV {
   padding: 0 0 0 15px;
 }
+
 .CV a {
   text-decoration: none;
 }
+
 #language {
   padding: 15px 15px 0 15px;
 }
+
 .language {
   background: rgb(10, 48, 83);
   height: auto;
@@ -80,12 +98,15 @@ body {
   padding: 20px;
   font-family: cursive;
 }
+
 .language img {
   background-color: darkgrey;
 }
+
 #framework {
   padding: 15px 15px 0 15px;
 }
+
 .framework {
   background: rgb(253, 110, 110);
   height: auto;
@@ -93,9 +114,11 @@ body {
   padding: 20px;
   font-family: cursive;
 }
+
 #skill {
   padding: 15px;
 }
+
 .skill {
   background: rgb(255, 164, 44);
   height: auto;
@@ -103,36 +126,45 @@ body {
   padding: 20px;
   font-family: cursive;
 }
+
 .about img {
   width: 80px;
 }
+
 .s3 {
   margin-left: -45px;
 }
+
 .about {
   background: #f8f8f8;
   position: static;
 }
+
 .capt {
   padding: 10px 25px 0 25px;
   display: flex;
 }
+
 .capt input {
   flex: 3;
   height: 30px;
 }
+
 .marea {
   padding: 10px 25px 0 25px;
   display: flex;
 }
+
 .marea textarea {
   flex: 3;
 }
+
 .collaborate {
   padding: 20px 25px 30px 25px;
   display: flex;
   align-items: center;
 }
+
 .collaborate a {
   flex: 2;
   height: 30px;
@@ -144,18 +176,22 @@ body {
   text-align: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
 #footer {
   background: #0c264d;
   padding: 25px 0 0 0;
 }
+
 .resume a {
   text-decoration: none;
   color: rgb(159, 230, 230);
   padding: 25px 25px 25px 25px;
 }
+
 .connect {
   padding: 15px 25px 25px 25px;
 }
+
 .connect img {
   width: 25px;
   background: #fff;
@@ -163,17 +199,21 @@ body {
   padding: 3px 3px 3px 3px;
   border-radius: 3px;
 }
+
 .image {
   background-size: cover;
   max-width: 320px;
 }
+
 .image img {
   background-size: cover;
   width: 320px;
 }
+
 .buttons {
   padding: 5px 0 20px 15px;
 }
+
 .buttons a{
     background: snow;
     border: 1px solid grey;
@@ -185,6 +225,7 @@ body {
     margin: 1px;
     font-size: 14px;
 }
+
 .buttons a {
   background: #9feaf0;
   border: 1px solid grey;
@@ -195,8 +236,9 @@ body {
   margin: 1px;
   font-size: 14px;
 }
+
 .see {
-  padding: 5px 0 20px 15px;
+  padding: 5px 0px 20px 15px;
 }
 
 .see a {
