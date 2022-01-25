@@ -212,7 +212,6 @@ body {
 .buttons {
   padding: 5px 0 20px 15px;
 }
-<<<<<<< HEAD
 .buttons a{
     background: snow;
     border: 1px solid grey;
@@ -223,7 +222,7 @@ body {
     border: none;
     margin: 1px;
     font-size: 14px;
-=======
+}
 
 .buttons a {
   background: #9feaf0;
@@ -234,9 +233,7 @@ body {
   font-style: normal;
   margin: 1px;
   font-size: 14px;
->>>>>>> 33ae401b257d6f172340736f8efc56ea20ca1429
 }
-
 .see {
   padding: 5px 0 20px 15px;
 }
